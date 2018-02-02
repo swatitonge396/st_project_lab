@@ -2,3 +2,6 @@ this
 is
 file
 3
+added
+three additional
+lines
